@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "berry.brewery",
+      "type": "com.berrybreweryclient.web.client.BreweryClient",
+      "sourceType": "com.berrybreweryclient.web.client.BreweryClient"
+    },
+    {
+      "name": "berry.connection",
+      "type": "com.berrybreweryclient.web.config.BlockingRestTemplateCustomizer",
+      "sourceType": "com.berrybreweryclient.web.config.BlockingRestTemplateCustomizer"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
